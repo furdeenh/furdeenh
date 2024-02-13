@@ -6,8 +6,10 @@
 - 💻 My personal website: https://furdeenh.github.io./
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furdeenh&theme=tokyonight)
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furdeenh&theme=tokyonight) 
+--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furdeenh&theme=dracula)](https://github.com/furdeenh/github-readme-stats)
 
 
 
