@@ -12,7 +12,7 @@
 --->
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=furdeenh&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/furdeenh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=furdeenh&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/furdeenh/github-readme-stats)
 
 <!---
 furdeenh/furdeenh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
