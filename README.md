@@ -12,7 +12,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furdeenh&theme=dracula)](https://github.com/furdeenh/github-readme-stats)
 --->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furdeenh&layout=compact&theme=dracula)
 
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furdeenh&theme=dracula)](https://github.com/furdeenh/github-readme-stats)
 
 <!---
