@@ -14,8 +14,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furdeenh&layout=compact&theme=dracula)
 
-<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furdeenh&theme=dracula)](https://github.com/furdeenh/github-readme-stats)
+<!---
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janahmedprg&exclude_repo=https://github.com/johnma02/Population-Analysis)](https://github.com/janahmedprg/github-readme-stats&theme=onedark) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furdeenh&exclude_repo=Population-Analysis&theme=darcula)](https://github.com/furdeenh/github-readme-stats)
 
 <!---
 furdeenh/furdeenh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
