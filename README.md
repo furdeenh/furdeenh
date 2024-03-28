@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Web Development
 - 🤝 I’m looking to collaborate on Engineering, Computer Science, AI, or Entrepreneurship projects
 - 📫 My email is: furdeenh@udel.edu
-- 💻 My personal website: https://furdeenh.github.io./
 
 
 <!---
