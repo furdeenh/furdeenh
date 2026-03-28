@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @furdeenh
-- 👀 I’m interested in Networking, Internships, and Job Opportunities
-- 🌱 I’m currently learning Web Development
-- 🤝 I’m looking to collaborate on Engineering, Computer Science, AI, or Cybersecurity projects
-- 📫 My email is: furdeenh@udel.edu
-- 💻 My Personal Website: https://furdeenh.github.io/
+-  Hi, I’m @furdeenh
+-  I’m interested in Networking, Internships, and Job Opportunities
+-  I’m currently learning Web Development
+-  I’m looking to collaborate on Engineering, Computer Science, AI, or Cybersecurity projects
+-  My email is: furdeenh@udel.edu
+-  My Personal Website: https://furdeenh.github.io/
 
 
 <!---
